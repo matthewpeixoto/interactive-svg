@@ -1,6 +1,6 @@
 #left-eye,
 #right-eye {
-  animation: slide 3s linear alternate infinite
+  animation: slide 3s linear alternate infinite;
 }
 
 @keyframes slide {
